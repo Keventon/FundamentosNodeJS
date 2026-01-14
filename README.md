@@ -97,13 +97,3 @@ curl "http://localhost:3333/users?search=ana"
 ## Persistência de dados
 
 O arquivo `db.json` é criado automaticamente quando a aplicação grava dados. Ele fica fora do versionamento para manter o repositório limpo e evitar conflitos locais.
-
-## Para recrutadores
-
-Este projeto demonstra domínio real dos fundamentos do backend em Node.js:
-
-- Entendimento profundo do fluxo HTTP (request/response)
-- Roteamento e middlewares sem frameworks
-- Manipulação de dados e persistência simples
-- Código legível, modular e fácil de evoluir
-- Solução enxuta, com foco em fundamentos e performance
