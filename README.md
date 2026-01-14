@@ -1,6 +1,6 @@
 # Fundamentos de Node.js – API HTTP sem frameworks
 
-API REST de estudos que implementa um servidor HTTP do zero, com roteamento próprio, middleware de JSON e persistencia simples em arquivo. O objetivo e mostrar dominio dos fundamentos do Node.js e da web, sem depender de Express ou bibliotecas externas.
+API REST de estudos que implementa um servidor HTTP do zero, com roteamento próprio, middleware de JSON e persistencia simples em arquivo. O objetivo é mostrar dominio dos fundamentos do Node.js e da web, sem depender de Express ou bibliotecas externas.
 
 ## Destaques
 
